@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Jonathan Thibeaux",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Web Developer",
+    "image": "IMG_5094.JPG",
+    "bio": "Recent graduate with education and experience in web development. Highly poised and dedicated with talent in design principles and programming languages. Excellent eye for visual aesthetics paired with insight into data and backend functionality.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jonthib95@gmail.com",
+    "phone": "281-896-8774",
+    "address": {
+      "street": "15703 Tremout Hollow Ln",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77044"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jthibeaux/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jonathan-thibeaux-a53808188/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jthibeaux/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jonthib22",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills that I've developed from my education during the UT BootCamp",
+    "education": [
+      {
+        "school": "University of Texas",
+        "degree": "Full Stack Web Developer Certificate",
+        "graduated": "December 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Express",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "jQuery",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "Mongoose",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Sequalize",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NoteTaker App",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Going Live",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Nom & Vibes",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
